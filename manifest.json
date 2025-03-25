@@ -1,0 +1,22 @@
+{
+  "name": "Orb Bots",
+  "short_name": "Orb Bots",
+  "description": "Discover premium Discord bots by Orb Bots.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#7289DA",
+  "theme_color": "#7289DA",
+  "icons": [
+    {
+      "src": "orb-bots-icon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "orb-bots-icon.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
+
